@@ -65,5 +65,5 @@ func main() {
 
 ### Reference
 
-May you see the sample implementation? -> [click me](https://github.com/HarunBuyuktepe/go-harun-cache)
+May you see the sample implementation? -> [click me](https://github.com/HarunBuyuktepe/go-restapi-cache)
 
