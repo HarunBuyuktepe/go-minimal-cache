@@ -5,8 +5,7 @@ Any object can be stored and the cache can be safely used by multiple goroutines
 
 Although go-cache isn't meant to be used as a persistent datastore, the entire
 cache can be saved to and loaded from a file. The existing values of the keys on cache 
-are saved to the file in json format with every 60 second intervals. Time duration to save 
-file and file path can be changed by the developers with methods `SetPath` and `SetFrequency`.
+are saved to the file in json format with every 60 second intervals. When the application stops and stands up again, if there is a saved file, it loads the existing data back into the memory. Time duration to save file and file path can be changed by the developers with methods `SetPath` and `SetFrequency`.
 
 Also available to see an image of the memory with `GetValue`.
 
