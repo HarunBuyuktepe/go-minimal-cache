@@ -65,5 +65,4 @@ func main() {
 ### Example
 
 May you see the sample implementation? -> [click me](https://github.com/HarunBuyuktepe/go-restapi-cache)
-https://drive.google.com/drive/folders/1oUg5MR0uIXSdh8Q_97kSN9ihYgVrsyaw?usp=sharing
 
